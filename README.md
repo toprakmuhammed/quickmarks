@@ -1,11 +1,12 @@
-# QuickMarks
+# QuickMark
 
-QuickMarks is a simple web app to save and manage your bookmarks.  
+QuickMark is a simple web app to save and manage your bookmarks.  
 Add, view, and remove your favorite links quickly and easily.
 
 ---
 
 ## Features
+
 - Add a bookmark with a name and URL
 - View saved bookmarks instantly
 - Remove bookmarks when no longer needed
@@ -15,6 +16,7 @@ Add, view, and remove your favorite links quickly and easily.
 ---
 
 ## Technologies Used
+
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
